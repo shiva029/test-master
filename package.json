@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swaroop",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^2.0.1",
+    "email-validator": "^1.1.1",
+    "express": "^4.16.2",
+    "express-mailer": "^0.3.1",
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.4",
+    "sendmail": "^1.2.0",
+    "socket.io": "^2.0.4",
+    "validator": "^9.4.1"
+  }
+}
